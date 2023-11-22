@@ -59,7 +59,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![1 empd](https://github.com/Ajith1413/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139842524/0f918170-8fcb-4f94-b7f2-7d12f4268875)
+![1 empd](https://github.com/Ajith1413/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139842524/b1a273e3-5e38-485f-a40f-5dd203f6dd10)
+
 
 
 ### Name: AJITH KUMAR A
